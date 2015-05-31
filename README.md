@@ -1,5 +1,5 @@
 ##### Project Description
-This is a mini PhD project that is intended to investigate some of the data mining methods to identify web page categories. Hoping this practical implementation with Node.JS will help other individuals interested with the methdods given below.
+This is a mini PhD project that is intended to investigate some of the data mining methods to identify web page categories. Hoping this practical implementation with Node.JS will help other individuals interested with the methods given below.
 
 ##### Methods
  - Bag Of Words
@@ -11,8 +11,8 @@ This is a mini PhD project that is intended to investigate some of the data mini
 
  - This small project is requested by Prof. S. Hoa Nguyen from PJWSTK.
  - I was able to develop this easily thanks to [Node.JS](http://nodejs.org) and it's [contributors](https://github.com/joyent/node/graphs/contributors)
- - I've learned a lot from [Joseph Wilk's blog](http://blog.josephwilk.net/projects/latent-semantic-analysis-in-python.html) on practical usage of the methods given above
- - (JXcore)[http://jxcore.com] is used to run node applications. You can also use [Node.JS](http://nodejs.org) or [IO.JS](https://iojs.org/en/index.html)
+ - I've learned a lot from [Joseph Wilk's blog](http://blog.josephwilk.net/projects/latent-semantic-analysis-in-python.html) on practical usage of the given methods above
+ - [JXcore](http://jxcore.com) is used to run node applications. You can also use [Node.JS](http://nodejs.org) or [IO.JS](https://iojs.org/en/index.html)
  - A very nice reading on data mining is available from [stanford.edu](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
  - I have no expertise in this subject. If you see a mistake, feel free to contribute from Github.
 
